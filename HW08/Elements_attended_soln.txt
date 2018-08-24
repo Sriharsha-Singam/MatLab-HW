@@ -1,0 +1,15 @@
+Attended:
+Fluorine
+Silicon
+Nitrogen
+Oxygen
+Aluminum
+Helium
+Boron
+Carbon
+Phosphorus
+Sulfer
+Chlorine
+Argon
+Potassium
+Calcium
